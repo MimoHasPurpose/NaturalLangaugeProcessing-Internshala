@@ -1,0 +1,1 @@
+https://github.com/AssemblyAI-Community/python-speech-recognition-course
